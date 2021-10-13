@@ -1,0 +1,29 @@
+State,Purpose,Trips
+ACT,Business,10933.93118
+ACT,Holiday,11014.22761
+ACT,Other,2178.44443
+ACT,Visiting,13669.61795
+New South Wales,Business,93089.65581
+New South Wales,Holiday,224815.8743
+New South Wales,Other,21636.01062
+New South Wales,Visiting,185271.5777
+Northern Territory,Business,23068.58165
+Northern Territory,Holiday,62904.94576
+Northern Territory,Other,4379.239562
+Northern Territory,Visiting,26606.24749
+Queensland,Business,68591.03832
+Queensland,Holiday,160277.9205
+Queensland,Other,16273.13778
+Queensland,Visiting,116390.9343
+South Australia,Business,21162.43343
+South Australia,Holiday,49682.69317
+South Australia,Other,5835.684801
+South Australia,Visiting,34097.13932
+Victoria,Business,59073.64409
+Victoria,Holiday,168002.0239
+Victoria,Other,14190.89329
+Victoria,Visiting,124591.3715
+Western Australia,Business,30559.33641
+Western Australia,Holiday,57584.69616
+Western Australia,Other,6718.281313
+Western Australia,Visiting,39212.24025
